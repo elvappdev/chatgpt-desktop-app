@@ -11,4 +11,4 @@ ChatGPT Desktop App (Offline GUI Client for OpenAI API)
 - config.json — will be auto-created after first run
 - README.txt — this file
 
-Note: This build requires the actual ChatGPT.exe to be generated via PyInstaller
+Note: This build requires the actual ChatGPT.exe to be generated via PyInstaller.
