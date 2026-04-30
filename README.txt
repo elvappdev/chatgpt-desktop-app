@@ -1,4 +1,4 @@
-ChatGPT Desktop App (Offline GUI Client for OpenAI API).
+ChatGPT Desktop App (Offline GUI Client for OpenAI API)
 
 ✅ How to use:
 1. Run ChatGPT.exe
